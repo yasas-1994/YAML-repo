@@ -1,0 +1,10 @@
+# appsettings.yml
+authentication:
+  azureAd:
+    aadInstance: https://login.microsoftonline.com/
+    domain:
+    tenantId:
+    clientId: FROM appsettings.yml
+    clientSecret:
+    callbackPath:
+...
